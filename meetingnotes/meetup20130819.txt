@@ -1,0 +1,48 @@
+---------------------------------------
+Scratch notes
+---------------------------------------
+Investigate current approaching to solving this problem
+Stock market analysis
+Motion detection
+Classic math 
+
+Simulate the data collection process measure the data coming from the device.
+
+
+
+
+Reading the forums
+
+Try a approach and submit
+
+Research the problem
+
+Simulate the environment
+
+
+Use the training data to find the patterns within itself
+
+nvidia cuda meetup group is brisbane
+
+Blender 3d animation simulation
+
+Investigate the device at rest as an attribute
+
+Markov model approach http://en.wikipedia.org/wiki/Markov_model
+
+Smoothing techniques, binning fourier transforms
+
+cubic splines 
+-----------------------------
+Actions
+------------------------------
+
+Lance - research
+
+Miles - smoothing
+
+Donovan - cluster algorithm, classical maths
+
+Kerry - looking at rest signals and characteristics, orientation
+
+Troy - Visualisation of the existing data
